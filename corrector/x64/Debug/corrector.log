@@ -1,0 +1,11 @@
+﻿  corrector.cpp
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(32,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(60,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(129,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(141,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(82,32): warning C4101: 'conta4': unreferenced local variable
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(83,8): warning C4101: 'deposito2': unreferenced local variable
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(82,24): warning C4101: 'conta3': unreferenced local variable
+C:\Users\hp\Desktop\proyectoiico\proyecto\corrector\corrector.cpp(82,7): warning C4101: 'limite2': unreferenced local variable
+  stdafx.cpp
+  Generating Code...
